@@ -1,0 +1,94 @@
+1620725671449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8T27YL"
+*** You are running in headless mode.
+
+(firefox:6191): GLib-GObject-WARNING **: 09:34:32.510: invalid (NULL) pointer instance
+
+(firefox:6191): GLib-GObject-CRITICAL **: 09:34:32.510: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6274): GLib-GObject-WARNING **: 09:34:33.773: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6274): GLib-GObject-CRITICAL **: 09:34:33.774: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6320): GLib-GObject-WARNING **: 09:34:37.052: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6320): GLib-GObject-CRITICAL **: 09:34:37.052: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:6450): GLib-GObject-WARNING **: 09:34:45.545: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6450): GLib-GObject-CRITICAL **: 09:34:45.546: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620725687095	Marionette	INFO	Listening on port 39399
+1620725688290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620725726811	Marionette	INFO	Stopped listening on port 39399
+1620726001596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7GuJ1g"
+*** You are running in headless mode.
+
+(firefox:8687): GLib-GObject-WARNING **: 09:40:01.985: invalid (NULL) pointer instance
+
+(firefox:8687): GLib-GObject-CRITICAL **: 09:40:01.986: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:8766): GLib-GObject-WARNING **: 09:40:02.509: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:8766): GLib-GObject-CRITICAL **: 09:40:02.509: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:8788): GLib-GObject-WARNING **: 09:40:02.607: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:8788): GLib-GObject-CRITICAL **: 09:40:02.607: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620726003733	Marionette	INFO	Listening on port 38823
+
+(/usr/lib/firefox/firefox:8878): GLib-GObject-WARNING **: 09:40:03.757: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:8878): GLib-GObject-CRITICAL **: 09:40:03.757: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620726004248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 5850 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 5850 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1620726130920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesB3jcY"
+*** You are running in headless mode.
+
+(firefox:9833): GLib-GObject-WARNING **: 09:42:11.318: invalid (NULL) pointer instance
+
+(firefox:9833): GLib-GObject-CRITICAL **: 09:42:11.319: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:9951): GLib-GObject-WARNING **: 09:42:11.847: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:9951): GLib-GObject-CRITICAL **: 09:42:11.848: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:9976): GLib-GObject-WARNING **: 09:42:11.955: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:9976): GLib-GObject-CRITICAL **: 09:42:11.956: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:10089): GLib-GObject-WARNING **: 09:42:18.768: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:10089): GLib-GObject-CRITICAL **: 09:42:18.769: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620726139059	Marionette	INFO	Listening on port 35765
+1620726139584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 4493 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 4493 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1620726184930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM6edqe"
+*** You are running in headless mode.
+
+(firefox:10474): GLib-GObject-WARNING **: 09:43:05.339: invalid (NULL) pointer instance
+
+(firefox:10474): GLib-GObject-CRITICAL **: 09:43:05.340: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:10600): GLib-GObject-WARNING **: 09:43:06.496: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:10600): GLib-GObject-CRITICAL **: 09:43:06.496: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:10631): GLib-GObject-WARNING **: 09:43:08.101: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:10631): GLib-GObject-CRITICAL **: 09:43:08.101: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:10709): GLib-GObject-WARNING **: 09:43:10.029: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:10709): GLib-GObject-CRITICAL **: 09:43:10.030: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620726202534	Marionette	INFO	Listening on port 35233
+1620726204518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 2468 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 2468 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
