@@ -92,3 +92,377 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 2468 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 2468 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620726762258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebLSG47"
+*** You are running in headless mode.
+
+(firefox:14629): GLib-GObject-WARNING **: 09:52:42.727: invalid (NULL) pointer instance
+
+(firefox:14629): GLib-GObject-CRITICAL **: 09:52:42.728: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:14744): GLib-GObject-WARNING **: 09:52:43.730: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14744): GLib-GObject-CRITICAL **: 09:52:43.731: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:14769): GLib-GObject-WARNING **: 09:52:43.881: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14769): GLib-GObject-CRITICAL **: 09:52:43.881: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:14867): GLib-GObject-WARNING **: 09:52:48.237: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14867): GLib-GObject-CRITICAL **: 09:52:48.238: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:14868): GLib-GObject-WARNING **: 09:52:48.245: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14868): GLib-GObject-CRITICAL **: 09:52:48.246: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620726768307	Marionette	INFO	Listening on port 34939
+1620726768412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 5207 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 5207 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1620726904244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5BlRpu"
+*** You are running in headless mode.
+
+(firefox:15836): GLib-GObject-WARNING **: 09:55:05.265: invalid (NULL) pointer instance
+
+(firefox:15836): GLib-GObject-CRITICAL **: 09:55:05.266: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:15955): GLib-GObject-WARNING **: 09:55:05.899: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:15955): GLib-GObject-CRITICAL **: 09:55:05.900: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:15980): GLib-GObject-WARNING **: 09:55:06.023: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:15980): GLib-GObject-CRITICAL **: 09:55:06.023: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620726907801	Marionette	INFO	Listening on port 37227
+
+(/usr/lib/firefox/firefox:16063): GLib-GObject-WARNING **: 09:55:07.848: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:16063): GLib-GObject-CRITICAL **: 09:55:07.849: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620726907938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 6053 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 6053 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1620727095117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNAmJMO"
+*** You are running in headless mode.
+
+(firefox:17330): GLib-GObject-WARNING **: 09:58:15.632: invalid (NULL) pointer instance
+
+(firefox:17330): GLib-GObject-CRITICAL **: 09:58:15.633: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:17458): GLib-GObject-WARNING **: 09:58:16.244: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:17458): GLib-GObject-CRITICAL **: 09:58:16.246: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:17484): GLib-GObject-WARNING **: 09:58:16.383: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:17484): GLib-GObject-CRITICAL **: 09:58:16.384: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620727106070	Marionette	INFO	Listening on port 38139
+1620727106171	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17614): GLib-GObject-WARNING **: 09:58:28.105: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:17614): GLib-GObject-CRITICAL **: 09:58:28.121: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 7243 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 7243 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1620727137895	Marionette	INFO	Stopped listening on port 38139
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileNAmJMO/protections.sqlite
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620727181616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS5s7rn"
+*** You are running in headless mode.
+
+(firefox:18203): GLib-GObject-WARNING **: 09:59:42.083: invalid (NULL) pointer instance
+
+(firefox:18203): GLib-GObject-CRITICAL **: 09:59:42.083: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:18356): GLib-GObject-WARNING **: 09:59:42.702: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:18356): GLib-GObject-CRITICAL **: 09:59:42.702: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:18381): GLib-GObject-WARNING **: 09:59:42.831: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:18381): GLib-GObject-CRITICAL **: 09:59:42.832: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620727184194	Marionette	INFO	Listening on port 34679
+
+(/usr/lib/firefox/firefox:18465): GLib-GObject-WARNING **: 09:59:44.212: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:18465): GLib-GObject-CRITICAL **: 09:59:44.212: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620727184258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 2915 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 2915 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1620727213586	Marionette	INFO	Stopped listening on port 34679
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1620727271843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK0ETIt"
+*** You are running in headless mode.
+
+(firefox:19171): GLib-GObject-WARNING **: 10:01:12.347: invalid (NULL) pointer instance
+
+(firefox:19171): GLib-GObject-CRITICAL **: 10:01:12.348: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:19322): GLib-GObject-WARNING **: 10:01:13.016: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:19322): GLib-GObject-CRITICAL **: 10:01:13.016: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:19347): GLib-GObject-WARNING **: 10:01:13.133: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:19347): GLib-GObject-CRITICAL **: 10:01:13.134: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:19436): GLib-GObject-WARNING **: 10:01:15.042: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:19436): GLib-GObject-CRITICAL **: 10:01:15.042: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620727275058	Marionette	INFO	Listening on port 39255
+1620727275178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 2504 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 2504 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620727318824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5brgoA"
+*** You are running in headless mode.
+
+(firefox:19815): GLib-GObject-WARNING **: 10:02:00.449: invalid (NULL) pointer instance
+
+(firefox:19815): GLib-GObject-CRITICAL **: 10:02:00.449: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:19954): GLib-GObject-WARNING **: 10:02:01.755: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:19954): GLib-GObject-CRITICAL **: 10:02:01.756: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:19970): GLib-GObject-WARNING **: 10:02:03.049: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:19970): GLib-GObject-CRITICAL **: 10:02:03.085: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:20068): GLib-GObject-WARNING **: 10:02:07.739: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20068): GLib-GObject-CRITICAL **: 10:02:07.849: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1620727338781	Marionette	INFO	Listening on port 44249
+1620727339964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620727550470	Marionette	INFO	Stopped listening on port 44249
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"/build/firefox-vman2c/firefox-84.0.2+build1/toolkit/components/places/Database.cpp","lineNumber":489,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1894","resource:///modules/BrowserGlue.jsm:BG_observe:1045","chrome://browser/content/browser.js:_delayedStartup:2205"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1620727808445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYucNRj"
+*** You are running in headless mode.
+
+(firefox:21485): GLib-GObject-WARNING **: 10:10:10.020: invalid (NULL) pointer instance
+
+(firefox:21485): GLib-GObject-CRITICAL **: 10:10:10.021: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21534): GLib-GObject-WARNING **: 10:10:10.960: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21534): GLib-GObject-CRITICAL **: 10:10:10.960: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21612): GLib-GObject-WARNING **: 10:10:11.349: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21612): GLib-GObject-CRITICAL **: 10:10:11.349: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21673): GLib-GObject-WARNING **: 10:10:13.570: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21673): GLib-GObject-CRITICAL **: 10:10:13.570: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620727814806	Marionette	INFO	Listening on port 46243
+1620727814872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 245 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 245 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1620727996366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileacbd65"
+*** You are running in headless mode.
+
+(firefox:21766): GLib-GObject-WARNING **: 10:13:17.307: invalid (NULL) pointer instance
+
+(firefox:21766): GLib-GObject-CRITICAL **: 10:13:17.319: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21900): GLib-GObject-WARNING **: 10:13:18.351: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21900): GLib-GObject-CRITICAL **: 10:13:18.352: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21925): GLib-GObject-WARNING **: 10:13:19.982: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21925): GLib-GObject-CRITICAL **: 10:13:19.983: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21994): GLib-GObject-WARNING **: 10:13:22.291: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21994): GLib-GObject-CRITICAL **: 10:13:22.292: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620728002413	Marionette	INFO	Listening on port 42699
+1620728002478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+1620728083080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOxboaB"
+*** You are running in headless mode.
+
+(firefox:22094): GLib-GObject-WARNING **: 10:14:43.635: invalid (NULL) pointer instance
+
+(firefox:22094): GLib-GObject-CRITICAL **: 10:14:43.636: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22216): GLib-GObject-WARNING **: 10:14:44.292: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22216): GLib-GObject-CRITICAL **: 10:14:44.293: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22241): GLib-GObject-WARNING **: 10:14:44.438: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22241): GLib-GObject-CRITICAL **: 10:14:44.438: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:22310): GLib-GObject-WARNING **: 10:14:45.763: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22310): GLib-GObject-CRITICAL **: 10:14:45.763: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620728085776	Marionette	INFO	Listening on port 35127
+1620728085837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+1620728098361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoZjYrc"
+*** You are running in headless mode.
+
+(firefox:22385): GLib-GObject-WARNING **: 10:14:59.599: invalid (NULL) pointer instance
+
+(firefox:22385): GLib-GObject-CRITICAL **: 10:14:59.600: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22510): GLib-GObject-WARNING **: 10:15:00.295: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22510): GLib-GObject-CRITICAL **: 10:15:00.296: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22534): GLib-GObject-WARNING **: 10:15:00.439: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22534): GLib-GObject-CRITICAL **: 10:15:00.440: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:22599): GLib-GObject-WARNING **: 10:15:04.199: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22599): GLib-GObject-CRITICAL **: 10:15:04.199: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620728104357	Marionette	INFO	Listening on port 41321
+1620728104404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+1620728108891	Marionette	INFO	Stopped listening on port 41321
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1620728117371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesYlpUF"
+*** You are running in headless mode.
+
+(firefox:22678): GLib-GObject-WARNING **: 10:15:17.995: invalid (NULL) pointer instance
+
+(firefox:22678): GLib-GObject-CRITICAL **: 10:15:17.996: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22774): GLib-GObject-WARNING **: 10:15:18.568: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22774): GLib-GObject-CRITICAL **: 10:15:18.569: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22799): GLib-GObject-WARNING **: 10:15:18.982: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22799): GLib-GObject-CRITICAL **: 10:15:18.983: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620728120285	Marionette	INFO	Listening on port 45089
+
+(/usr/lib/firefox/firefox:22869): GLib-GObject-WARNING **: 10:15:20.299: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22869): GLib-GObject-CRITICAL **: 10:15:20.299: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620728120407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+1620728132555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3cUZO2"
+*** You are running in headless mode.
+
+(firefox:22948): GLib-GObject-WARNING **: 10:15:33.717: invalid (NULL) pointer instance
+
+(firefox:22948): GLib-GObject-CRITICAL **: 10:15:33.717: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:23062): GLib-GObject-WARNING **: 10:15:34.372: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23062): GLib-GObject-CRITICAL **: 10:15:34.372: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:23087): GLib-GObject-WARNING **: 10:15:34.484: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23087): GLib-GObject-CRITICAL **: 10:15:34.484: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620728135805	Marionette	INFO	Listening on port 41753
+1620728135893	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23159): GLib-GObject-WARNING **: 10:15:36.194: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23159): GLib-GObject-CRITICAL **: 10:15:36.195: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+1620728153614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaG6lfz"
+*** You are running in headless mode.
+
+(firefox:23246): GLib-GObject-WARNING **: 10:15:54.001: invalid (NULL) pointer instance
+
+(firefox:23246): GLib-GObject-CRITICAL **: 10:15:54.002: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:23348): GLib-GObject-WARNING **: 10:15:54.601: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23348): GLib-GObject-CRITICAL **: 10:15:54.602: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:23373): GLib-GObject-WARNING **: 10:15:54.729: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23373): GLib-GObject-CRITICAL **: 10:15:54.730: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620728156061	Marionette	INFO	Listening on port 35913
+
+(/usr/lib/firefox/firefox:23447): GLib-GObject-WARNING **: 10:15:56.094: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23447): GLib-GObject-CRITICAL **: 10:15:56.094: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620728156148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+1620728159853	Marionette	INFO	Stopped listening on port 35913
+1620728168357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaIq0sX"
+*** You are running in headless mode.
+
+(firefox:23503): GLib-GObject-WARNING **: 10:16:08.713: invalid (NULL) pointer instance
+
+(firefox:23503): GLib-GObject-CRITICAL **: 10:16:08.713: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:23592): GLib-GObject-WARNING **: 10:16:09.220: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23592): GLib-GObject-CRITICAL **: 10:16:09.221: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:23617): GLib-GObject-WARNING **: 10:16:09.326: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23617): GLib-GObject-CRITICAL **: 10:16:09.327: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620728170511	Marionette	INFO	Listening on port 38093
+
+(/usr/lib/firefox/firefox:23690): GLib-GObject-WARNING **: 10:16:10.527: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23690): GLib-GObject-CRITICAL **: 10:16:10.528: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620728170594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620728290749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletj2pnU"
+*** You are running in headless mode.
+
+(firefox:23797): GLib-GObject-WARNING **: 10:18:11.142: invalid (NULL) pointer instance
+
+(firefox:23797): GLib-GObject-CRITICAL **: 10:18:11.143: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:23930): GLib-GObject-WARNING **: 10:18:12.432: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23930): GLib-GObject-CRITICAL **: 10:18:12.432: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:23952): GLib-GObject-WARNING **: 10:18:12.535: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23952): GLib-GObject-CRITICAL **: 10:18:12.536: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:24027): GLib-GObject-WARNING **: 10:18:15.326: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:24027): GLib-GObject-CRITICAL **: 10:18:15.327: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:24029): GLib-GObject-WARNING **: 10:18:15.357: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:24029): GLib-GObject-CRITICAL **: 10:18:15.358: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1620728296627	Marionette	INFO	Listening on port 36891
+1620728296789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
