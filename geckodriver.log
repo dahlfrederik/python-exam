@@ -466,3 +466,40 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1620728296789	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
 JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 969: ReferenceError: VirkHeader is not defined
+1621282455610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebekJra"
+*** You are running in headless mode.
+
+(firefox:89): GLib-GObject-WARNING **: 20:14:17.549: invalid (NULL) pointer instance
+
+(firefox:89): GLib-GObject-CRITICAL **: 20:14:17.551: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:142): GLib-GObject-WARNING **: 20:14:18.382: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:142): GLib-GObject-CRITICAL **: 20:14:18.382: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:209): GLib-GObject-WARNING **: 20:14:18.679: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:209): GLib-GObject-CRITICAL **: 20:14:18.679: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:281): GLib-GObject-WARNING **: 20:14:20.455: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:281): GLib-GObject-CRITICAL **: 20:14:20.456: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1621282460460	Marionette	INFO	Listening on port 38855
+1621282460561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bilbasen.dk/sharedresources/vendor/vendor.bundle.a9754555a31cbb8222a6.js, line 46: Invariant Violation: Minified React error #200; visit https://reactjs.org/docs/error-decoder.html?invariant=200 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 7451 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 7451 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 1340 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 1340 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 136 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 136 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621282483499	Marionette	INFO	Stopped listening on port 38855
+JavaScript error: https://www.bilbasen.dk/sharedresources/vendor/vendor.bundle.a9754555a31cbb8222a6.js, line 25: NS_ERROR_NOT_INITIALIZED: 
