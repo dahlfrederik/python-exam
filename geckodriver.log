@@ -503,3 +503,230 @@ JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/pla
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 1621282483499	Marionette	INFO	Stopped listening on port 38855
 JavaScript error: https://www.bilbasen.dk/sharedresources/vendor/vendor.bundle.a9754555a31cbb8222a6.js, line 25: NS_ERROR_NOT_INITIALIZED: 
+1621325456280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEAsrO5"
+*** You are running in headless mode.
+
+(firefox:54): GLib-GObject-WARNING **: 08:10:56.861: invalid (NULL) pointer instance
+
+(firefox:54): GLib-GObject-CRITICAL **: 08:10:56.862: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:100): GLib-GObject-WARNING **: 08:10:57.292: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:100): GLib-GObject-CRITICAL **: 08:10:57.293: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:226): GLib-GObject-WARNING **: 08:10:57.455: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:226): GLib-GObject-CRITICAL **: 08:10:57.455: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621325458303	Marionette	INFO	Listening on port 33531
+
+(/usr/lib/firefox/firefox:285): GLib-GObject-WARNING **: 08:10:58.339: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:285): GLib-GObject-CRITICAL **: 08:10:58.343: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1621325458404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bilbasen.dk/sharedresources/vendor/vendor.bundle.a9754555a31cbb8222a6.js, line 46: Invariant Violation: Minified React error #200; visit https://reactjs.org/docs/error-decoder.html?invariant=200 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 714 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 714 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6648 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6648 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 786 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 786 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 781 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 781 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621325473536	Marionette	INFO	Stopped listening on port 33531
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 1847: NS_ERROR_NOT_INITIALIZED: 
+1621329498902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZEuZP7"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621329499561	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:202): GLib-GObject-CRITICAL **: 09:18:19.903: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:222): GLib-GObject-CRITICAL **: 09:18:19.994: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621329500772	Marionette	INFO	Listening on port 42137
+1621329500824	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:306): GLib-GObject-CRITICAL **: 09:18:20.914: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://www.bilbasen.dk/sharedresources/vendor/vendor.bundle.a9754555a31cbb8222a6.js, line 46: Invariant Violation: Minified React error #200; visit https://reactjs.org/docs/error-decoder.html?invariant=200 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 7682 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 7682 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6967 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6967 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 5765 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 5765 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 1160 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 1160 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621329512681	Marionette	INFO	Stopped listening on port 42137
+1621329553767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehlhya7"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621329554050	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:433): GLib-GObject-CRITICAL **: 09:19:14.347: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:449): GLib-GObject-CRITICAL **: 09:19:14.424: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621329555081	Marionette	INFO	Listening on port 42119
+1621329555184	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:522): GLib-GObject-CRITICAL **: 09:19:15.349: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621329562216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFrvZrq"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621329562462	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:596): GLib-GObject-CRITICAL **: 09:19:22.754: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:614): GLib-GObject-CRITICAL **: 09:19:22.824: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621329563518	Marionette	INFO	Listening on port 35399
+1621329563534	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:731): GLib-GObject-CRITICAL **: 09:19:24.945: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6690 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6690 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 7491 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 7491 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621329568415	Marionette	INFO	Stopped listening on port 35399
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621329733899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile71kS68"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621329734161	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:824): GLib-GObject-CRITICAL **: 09:22:14.463: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:839): GLib-GObject-CRITICAL **: 09:22:14.581: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621329735229	Marionette	INFO	Listening on port 43445
+1621329735315	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:912): GLib-GObject-CRITICAL **: 09:22:15.788: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210503.110442/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 5628 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 5628 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621329739017	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://s0.2mdn.net/10587187/1608719239819/index.html?e=69&leftOffset=0&topOffset=0&c=uoogUnAa4r&t=1&renderingType=2, line 1508: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6677 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6677 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621329739373	Marionette	INFO	Stopped listening on port 43445
+JavaScript warning: https://s0.2mdn.net/10587187/1608719239819/index.html?e=69&leftOffset=0&topOffset=0&c=uoogUnAa4r&t=1&renderingType=2, line 1508: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://tpc.googlesyndication.com/sodar/sodar2.js, line 25: NotFoundError: Node.removeChild: The node to be removed is not a child of this node
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
