@@ -890,3 +890,64 @@ JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021051
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1621600588694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekq8G6P"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621600590495	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:740): GLib-GObject-CRITICAL **: 12:36:31.207: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:764): GLib-GObject-CRITICAL **: 12:36:31.345: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621600594162	Marionette	INFO	Listening on port 42705
+1621600594315	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:841): GLib-GObject-CRITICAL **: 12:36:34.375: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:843): GLib-GObject-CRITICAL **: 12:36:34.487: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621600600329	Marionette	INFO	Stopped listening on port 42705
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021051901.js?31061260, line 6: NS_ERROR_NOT_INITIALIZED: 
+1621601124512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9HmKOT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1621601124898	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:1015): GLib-GObject-CRITICAL **: 12:45:25.319: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:1036): GLib-GObject-CRITICAL **: 12:45:25.405: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621601126568	Marionette	INFO	Listening on port 41039
+
+(/usr/lib/firefox/firefox:1109): GLib-GObject-CRITICAL **: 12:45:26.621: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621601126641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CWq9ndk-1oeaRFSw5-gDkkYul7vu_3Fd6OpFoFd0cNM.js line 1 > eval line 5295 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CWq9ndk-1oeaRFSw5-gDkkYul7vu_3Fd6OpFoFd0cNM.js line 1 > eval line 5295 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CWq9ndk-1oeaRFSw5-gDkkYul7vu_3Fd6OpFoFd0cNM.js line 1 > eval line 1347 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CWq9ndk-1oeaRFSw5-gDkkYul7vu_3Fd6OpFoFd0cNM.js line 1 > eval line 1347 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CWq9ndk-1oeaRFSw5-gDkkYul7vu_3Fd6OpFoFd0cNM.js line 1 > eval line 2053 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CWq9ndk-1oeaRFSw5-gDkkYul7vu_3Fd6OpFoFd0cNM.js line 1 > eval line 2053 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621601139425	Marionette	INFO	Stopped listening on port 41039
