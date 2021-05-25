@@ -7,13 +7,13 @@ This git repo is for the examp project for 4 semester elective python at CPH Bus
 - Josef Marc | cph-jp325@cphbusiness.dk
 - Frederik Dahl | cph-fd76@cphbusiness.dk
 
-** Project name: **
+**Project name:**
 - Numberplate scanner to value your car
 
-** Short description: **
+**Short description:**
 This project lets you scan a numberplate of a car and based on this numberplate it will predict the current value of the car.
 
-** List of used technologies**
+**List of used technologies**
 - Selenium
 - BeutifulSoup
 - Numpy
@@ -25,7 +25,7 @@ This project lets you scan a numberplate of a car and based on this numberplate 
 - Pandas 
 
 
-** Installation guide (if any libraries need to be installed)**
+**Installation guide (if any libraries need to be installed)**
 We assume that the user is running this project from the docker enviroments used in this semester. 
 
 Never the less you have to install these librarys:  
@@ -38,7 +38,7 @@ Never the less you have to install these librarys:
 2. 
 
 
-** Status (What has been done (and if anything: what was not done))**
+**Status (What has been done (and if anything: what was not done))**
 What has been done: 
 - The program can read a numberplate from a picture and convert it into a string 
 - Webscrape the numberplate on nummerplade.net 
@@ -54,7 +54,7 @@ What has not been done:
 - Explain the accuray of our regression model
 - Data visualisation 
 
-** List of Challenges you have set up for your self (The things in your project you want to highlight)**
+**List of Challenges you have set up for your self (The things in your project you want to highlight)**
 - Numberplate to string 
 - Searching for model on bilbasen 
 - Predicting car value with our regression model (also including the setup of the model) 
