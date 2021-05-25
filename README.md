@@ -2,7 +2,7 @@
 
 This git repo is for the examp project for 4 semester elective python at CPH Business Lyngby.
 
-** Group members: **
+**Group members:**
 - Thor Christensen | cph-tc147@cphbusiness.dk
 - Josef Marc | cph-jp325@cphbusiness.dk
 - Frederik Dahl | cph-fd76@cphbusiness.dk
