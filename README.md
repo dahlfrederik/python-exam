@@ -10,8 +10,8 @@ This git repo is for the examp project for 4 semester elective python at CPH Bus
 **Project name:**
 - Numberplate scanner to value your car
 
-**Short description:**
-This project lets you scan a numberplate of a car and based on this numberplate it will predict the current value of the car.
+**Short description:** 
+- This project lets you scan a numberplate of a car and based on this numberplate it will predict the current value of the car.
 
 **List of used technologies**
 - Selenium
