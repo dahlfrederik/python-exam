@@ -34,8 +34,7 @@ Never the less you have to install these librarys:
 
 
 **User guide (how to run the program)**
-1. Open the program in jupyter notebook 
-2. 
+TO DO
 
 
 **Status (What has been done (and if anything: what was not done))**
