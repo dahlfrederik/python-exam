@@ -40,7 +40,11 @@ Never the less you have to install these librarys:
 
 **User guide (how to run the program)**
 
-TO DO
+1. Open the Jupyter Notebook called: 
+	main 
+2. Read field describing how to set system and which car to search for
+3. Follow instructions in the field and pres run all
+4. **Enjoy!** Your car has now been valued by the algorithm. See the result at the bottom. 
 
 
 **Status (What has been done (and if anything: what was not done))**

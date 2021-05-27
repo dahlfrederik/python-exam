@@ -4,22 +4,21 @@ import numpy as np
 from matplotlib import pyplot as plt
 import pytesseract
 
-def find_numberplate(windows, tesla):
+def find_numberplate(on_windows, car_model):
 
     # Windows
-    if(windows == True):
+    if(on_windows == True):
         pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
         #M1
     else:
         pytesseract.pytesseract.tesseract_cmd = r'/opt/homebrew/Cellar/tesseract/4.1.1/bin/tesseract'
 
-
     #Import image and resize it
-    if(tesla == True):
+    if(car_model == "Tesla"):
         #Tesla
         img = cv2.imread('./images/tesla.jpg', cv2.IMREAD_COLOR)
         img = imutils.resize(img, width=600)
-    else:
+    if(car_model == "Aygo"): 
         #Aygo
         img = cv2.imread('./images/aygo.png', cv2.IMREAD_COLOR)
         img = imutils.resize(img, width=610)
