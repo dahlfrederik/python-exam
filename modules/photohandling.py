@@ -4,21 +4,25 @@ import numpy as np
 from matplotlib import pyplot as plt
 import pytesseract
 
-def find_numberplate():
-    #Windows
-    pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
+def find_numberplate(windows, tesla):
 
-    #M1
-    #ytesseract.pytesseract.tesseract_cmd = r'/opt/homebrew/Cellar/tesseract/4.1.1/bin/tesseract'
+    # Windows
+    if(windows == True):
+        pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
+        #M1
+    else:
+        pytesseract.pytesseract.tesseract_cmd = r'/opt/homebrew/Cellar/tesseract/4.1.1/bin/tesseract'
+
 
     #Import image and resize it
-    #Aygo
-    #img = cv2.imread('./images/aygo.png', cv2.IMREAD_COLOR)
-    #img = imutils.resize(img, width=610)
-
-    #Tesla
-    img = cv2.imread('./images/tesla.jpg', cv2.IMREAD_COLOR)
-    img = imutils.resize(img, width=600)
+    if(tesla == True):
+        #Tesla
+        img = cv2.imread('./images/tesla.jpg', cv2.IMREAD_COLOR)
+        img = imutils.resize(img, width=600)
+    else:
+        #Aygo
+        img = cv2.imread('./images/aygo.png', cv2.IMREAD_COLOR)
+        img = imutils.resize(img, width=610)
 
     #Gray scale 
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)

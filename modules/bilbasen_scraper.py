@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup as soup
 
 
 class my_car:
-    def __init__(self):
+    def __init__(self, windows):
         self.base_url = "https://www.bilbasen.dk/"
         self.car_list = []
         
@@ -16,11 +16,12 @@ class my_car:
         options = Options()
         options.headless = True
         
-        #Windows
-        self.browser = webdriver.Firefox(options=options)
-        
-        #M1 
-        #self.browser  = webdriver.Chrome(executable_path="/Users/frederikdahl/chromedriver/chromedriver")
+        # Windows
+        if(windows == True):
+            self.browser = webdriver.Firefox(options=options)
+            # M1
+        else:
+            self.browser = webdriver.Chrome(executable_path="/Users/frederikdahl/chromedriver/chromedriver")
         
         self.browser.get(self.base_url)
         print("Got Browser")

@@ -6,7 +6,7 @@ import re
 
 
 class numberplate_scraper:
-    def __init__(self,nummerplade):
+    def __init__(self,nummerplade, windows):
         
         print("Starting up..")
         profile = webdriver.FirefoxProfile()
@@ -15,9 +15,11 @@ class numberplate_scraper:
         options.headless = True
 
         # Windows
-        self.browser = webdriver.Firefox(options=options)
-        # M1
-        #self.browser = webdriver.Chrome(executable_path="/Users/frederikdahl/chromedriver/chromedriver")
+        if(windows == True):
+            self.browser = webdriver.Firefox(options=options)
+            # M1
+        else:
+            self.browser = webdriver.Chrome(executable_path="/Users/frederikdahl/chromedriver/chromedriver")
 
         self.browser.get("https://www.nummerplade.net/")
 
