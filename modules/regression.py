@@ -64,7 +64,8 @@ class find_car_value:
         # Predicting result based on car values
         predicted_car_value = self.regressor.predict(
             [[int(self.search_car_km), int(self.search_car_year)]])
-        print("Predicted price of the entered car: ", predicted_car_value)
+        print(f"Value of the entered car: {str(predicted_car_value)[1:-1]} kr")
 
     def predict_data_accuracy(self):
-        print("Model accuracy: ", self.regressor.score(self.X, self.y))
+        accuracy = (self.regressor.score(self.X, self.y))*100
+        print(f"Model accuracy: {accuracy} %")
