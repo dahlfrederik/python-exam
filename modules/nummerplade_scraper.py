@@ -16,7 +16,6 @@ class numberplate_scraper:
 
         # Windows
         self.browser = webdriver.Firefox(options=options)
-        
         # M1
         #self.browser = webdriver.Chrome(executable_path="/Users/frederikdahl/chromedriver/chromedriver")
 

@@ -3,11 +3,10 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup as soup
 
-base_url = 'https://www.bilbasen.dk/'
 
 class my_car:
-    def __init__(self, url):
-        self.base_url = url
+    def __init__(self):
+        self.base_url = "https://www.bilbasen.dk/"
         self.car_list = []
         
         print("Starting up...")
