@@ -1326,3 +1326,504 @@ JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/pla
 JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
 JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
 JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021051801.js, line 6: NS_ERROR_NOT_INITIALIZED: 
+1622104003096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilete8QV5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1622104003803	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:11157): GLib-GObject-CRITICAL **: 08:26:44.223: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:11172): GLib-GObject-CRITICAL **: 08:26:44.310: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622104005233	Marionette	INFO	Listening on port 42985
+
+(/usr/lib/firefox/firefox:11258): GLib-GObject-CRITICAL **: 08:26:45.308: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622104005320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622104009425	Marionette	INFO	Stopped listening on port 42985
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6454 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6454 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4556 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4556 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622104021771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLDdwpS"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1622104022146	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:11538): GLib-GObject-CRITICAL **: 08:27:02.456: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:11556): GLib-GObject-CRITICAL **: 08:27:02.534: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622104023165	Marionette	INFO	Listening on port 36265
+1622104023195	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11632): GLib-GObject-CRITICAL **: 08:27:03.633: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6017 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6017 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622104027895	Marionette	INFO	Stopped listening on port 36265
+1622104043338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecP01OB"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1622104043589	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:11928): GLib-GObject-CRITICAL **: 08:27:23.884: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:11943): GLib-GObject-CRITICAL **: 08:27:23.962: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622104044587	Marionette	INFO	Listening on port 44153
+1622104044656	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12058): GLib-GObject-CRITICAL **: 08:27:25.089: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622104048592	Marionette	INFO	Stopped listening on port 44153
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D000D,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6D0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1622105283357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYzN9En"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1622105283653	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:24936): GLib-GObject-CRITICAL **: 08:48:03.961: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24950): GLib-GObject-CRITICAL **: 08:48:04.017: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622105284712	Marionette	INFO	Listening on port 33673
+1622105284775	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25039): GLib-GObject-CRITICAL **: 08:48:05.283: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5846 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5846 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe0168fdd60 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+1622105297576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley466BX"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1622105297959	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:25327): GLib-GObject-CRITICAL **: 08:48:18.448: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:25337): GLib-GObject-CRITICAL **: 08:48:18.476: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe011e8e040 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+1622105299450	Marionette	INFO	Listening on port 41655
+1622105299512	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25431): GLib-GObject-CRITICAL **: 08:48:19.561: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 1836 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 1836 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2719 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2719 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe011e8e660 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe011e8e4a0 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe0168fdac0 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5093 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5093 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5642 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5642 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622105333739	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe02431e740 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe027dd4820 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+1622105358989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOD4Fhs"
+*** You are running in headless mode.
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe011e8e2e0 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1622105359519	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:26213): GLib-GObject-CRITICAL **: 08:49:19.938: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26234): GLib-GObject-CRITICAL **: 08:49:20.043: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622105361235	Marionette	INFO	Listening on port 37517
+1622105361328	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26338): GLib-GObject-CRITICAL **: 08:49:21.411: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 3606 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 3606 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 3103 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 3103 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6928 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6928 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 7553 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 7553 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe0153fd2e0 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe0153fc2e0 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe027dd4900 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe011e8e4a0 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe0155cc120 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe011e8e4a0 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+1622105425299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoyUEFh"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1622105426050	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:27190): GLib-GObject-CRITICAL **: 08:50:26.905: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27196): GLib-GObject-CRITICAL **: 08:50:26.998: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe011e8e3c0 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+
+(/usr/lib/firefox/firefox:27322): GLib-GObject-CRITICAL **: 08:50:33.729: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622105439785	Marionette	INFO	Listening on port 33679
+1622105439926	Marionette	WARN	TLS certificate errors will be ignored for this session
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe011e8ee40 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe0128ac2e0 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 24936, MediaDecoderStateMachine #1] WARNING: 7fe011e8e3c0 OpenCubeb() failed to init cubeb: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/AudioStream.cpp:323
+[Child 24936, MediaDecoderStateMachine #1] WARNING: Decoder=7fe020e05c00 [OnMediaSinkAudioError]: file /build/firefox-xYZXmx/firefox-88.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3904
+1622105511653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenlEE8S"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1622105512264	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:28119): GLib-GObject-CRITICAL **: 08:51:52.587: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:28137): GLib-GObject-CRITICAL **: 08:51:52.673: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622105513457	Marionette	INFO	Listening on port 46217
+1622105513573	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:28223): GLib-GObject-CRITICAL **: 08:51:53.627: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622105517674	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210518.100528/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6194 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6194 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+1622105532237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP0fg7i"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1622105532512	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:28559): GLib-GObject-CRITICAL **: 08:52:12.809: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:28580): GLib-GObject-CRITICAL **: 08:52:12.908: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622105533625	Marionette	INFO	Listening on port 34569
+1622105533656	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:28655): GLib-GObject-CRITICAL **: 08:52:14.128: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6358 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6358 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 625 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 625 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 3160 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 3160 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 7305 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 7305 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2085 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2085 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622105596826	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 7275 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 7275 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2977 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2977 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6097 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6097 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622105637833	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4072 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4072 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622105654057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledTNOuM"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1622105654455	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:30006): GLib-GObject-CRITICAL **: 08:54:14.809: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:30019): GLib-GObject-CRITICAL **: 08:54:14.879: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622105655988	Marionette	INFO	Listening on port 41591
+
+(/usr/lib/firefox/firefox:30093): GLib-GObject-CRITICAL **: 08:54:16.068: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622105656091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622105657347	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2980 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2980 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 895 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 895 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6625 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6625 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2837 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2837 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622105662482	Marionette	INFO	Stopped listening on port 41591
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5388 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5388 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 7166 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 7166 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 1762 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 1762 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 1942 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 1942 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4931 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4931 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 1691 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 1691 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://c.bannerflow.net/a/609294bbf57948fc36967151?did=5ced17d285b1c200019c3fe1&deeplink=on&&redirecturl=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjstloLviP0lcQkHs4MnK4GAWGwggs69-UgqL8b-cCHI8s2KszhbnpUimxE2r2bgd72bOw_h87ELEeLnImYntJ-wmlZiKQAiaO56T1h5VtcWU1iCEmsmJDpFpy3CmF5YKnija3RbwXWeehhFFMFVWgPKzvScgnsfOvUiHcexsAbX1sq8HCk4iPHrbw1rPSCF76PvdwhmFQ_wU9VRHhaOxSIM1AH3TPBn9amGvjNd9oGNenejqNg8U9BYtk7gaoajalKGur-DMzAhF7J9XbXHERFB9DbILSgh7Jk_HEALaQH9STdtvUYKTy8Z8pZAEtsD09gZj__s4iMZ88HDCcsndNB_to7PuNoXZt804CX-Yosa2T9s0nRBxOsrjVmraA9W3THvGXu1wAlvnVVQ8aBrkk3OgWi7J0gxxaONPJfCAOBEsYY0b0Tkv4VLVbv0wOW1TBYiXBaaVgToBuDO3OjGwbNoSk0KDNfBg_mXwW5K9a9ZTpsMwF4zyHw9NG_vF-85BGs7obw0RNHV_80aZ1P5h-YG4t5wEWYMMJCQESXSl37fAMCaHbZuAe1GCrmAK5SBbhOZ1F0C-D4yZzpGNfWE4FQrmGr9HhnUC0jYbuWlRwGcxBVh6QHL4X16rzMjyKew6wjA8pVcRu00O3_xlTceTBl6ZwcuX953mt8D24a1Ra7lFL2cHrSfSrFCRcKlBZ0ldtzeSwoFE5pmUvqJVQvupwZfmJPII48J2oYKj_gi_-fV834aCCkzs_XUHgo2RRgwdhZEPv8nNUJfqKa-XwaMuASu3vOHCeIMD2IE3-tmQYAWptlK5tzKdd0ID1K7Ro2Qsc01NK1_IxNWKpSuQGs611GJ1_9TcPCXM1HlD5pKenZFMGZmYYGmloj8jvLw4R8I0Z2HMW3LA6Sa2x9x9wOGB-IkwIxrs8ept91I_O3-zFWuKsE-hWOuMKjPTmlJs8_XjshLgUi6LwC33TCq_U0xvoMPXCuWNGxZ9UbnW068-eh_JlpQoADMyX40_s9Rdurnhyg2S173Qxt09sh86oyFL6xMPRJY9bqm-2S5tfIebJMYOQppyNKnmP51sq7ICKmmVf1D_wvMHVgA91AuCXYBVTg%26sai%3DAMfl-YRIrQt6HIfmGIN12XQuhDU251VvXhknfrNIsDdLAU67OudVCBoVkT0lLxNeXuKiNARZVGjgPyYu7XWnaHSGTZM3gR4V-csNyIShFhKbpUdR4wxGpT-p_-GmnYDRzszUSjtF6L_gIL1sLM3LH-ct7o46dDHOA15CMw74DS9ZFUkjwcxD_g2yJ2Zatnif0xULk2LOfwR9OVKZuXAn1ObLOq2qAZjycRaVlGoiw2xyHwN8Ozec12NW%26sig%3DCg0ArKJSzMBmMGXdmFOIEAE%26fbs_aeid%3D%5Bgw_fbsaeid%5D%26urlfix%3D1%26rm_eid%3D5446923%26adurl%3Dhttps%253A%252F%252Fwww.ajprodukter.dk%253Futm_source%253Ddisplay%2526utm_medium%253Dbanner%2526utm_campaign%253Dprosp_Personal-service-retake%2526dclid%253D%2525edclid!, line 1: InternalError: too much recursion
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5983 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5983 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://c.bannerflow.net/a/609294bbf57948fc36967151?did=5ced17d285b1c200019c3fe1&deeplink=on&&redirecturl=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjstloLviP0lcQkHs4MnK4GAWGwggs69-UgqL8b-cCHI8s2KszhbnpUimxE2r2bgd72bOw_h87ELEeLnImYntJ-wmlZiKQAiaO56T1h5VtcWU1iCEmsmJDpFpy3CmF5YKnija3RbwXWeehhFFMFVWgPKzvScgnsfOvUiHcexsAbX1sq8HCk4iPHrbw1rPSCF76PvdwhmFQ_wU9VRHhaOxSIM1AH3TPBn9amGvjNd9oGNenejqNg8U9BYtk7gaoajalKGur-DMzAhF7J9XbXHERFB9DbILSgh7Jk_HEALaQH9STdtvUYKTy8Z8pZAEtsD09gZj__s4iMZ88HDCcsndNB_to7PuNoXZt804CX-Yosa2T9s0nRBxOsrjVmraA9W3THvGXu1wAlvnVVQ8aBrkk3OgWi7J0gxxaONPJfCAOBEsYY0b0Tkv4VLVbv0wOW1TBYiXBaaVgToBuDO3OjGwbNoSk0KDNfBg_mXwW5K9a9ZTpsMwF4zyHw9NG_vF-85BGs7obw0RNHV_80aZ1P5h-YG4t5wEWYMMJCQESXSl37fAMCaHbZuAe1GCrmAK5SBbhOZ1F0C-D4yZzpGNfWE4FQrmGr9HhnUC0jYbuWlRwGcxBVh6QHL4X16rzMjyKew6wjA8pVcRu00O3_xlTceTBl6ZwcuX953mt8D24a1Ra7lFL2cHrSfSrFCRcKlBZ0ldtzeSwoFE5pmUvqJVQvupwZfmJPII48J2oYKj_gi_-fV834aCCkzs_XUHgo2RRgwdhZEPv8nNUJfqKa-XwaMuASu3vOHCeIMD2IE3-tmQYAWptlK5tzKdd0ID1K7Ro2Qsc01NK1_IxNWKpSuQGs611GJ1_9TcPCXM1HlD5pKenZFMGZmYYGmloj8jvLw4R8I0Z2HMW3LA6Sa2x9x9wOGB-IkwIxrs8ept91I_O3-zFWuKsE-hWOuMKjPTmlJs8_XjshLgUi6LwC33TCq_U0xvoMPXCuWNGxZ9UbnW068-eh_JlpQoADMyX40_s9Rdurnhyg2S173Qxt09sh86oyFL6xMPRJY9bqm-2S5tfIebJMYOQppyNKnmP51sq7ICKmmVf1D_wvMHVgA91AuCXYBVTg%26sai%3DAMfl-YRIrQt6HIfmGIN12XQuhDU251VvXhknfrNIsDdLAU67OudVCBoVkT0lLxNeXuKiNARZVGjgPyYu7XWnaHSGTZM3gR4V-csNyIShFhKbpUdR4wxGpT-p_-GmnYDRzszUSjtF6L_gIL1sLM3LH-ct7o46dDHOA15CMw74DS9ZFUkjwcxD_g2yJ2Zatnif0xULk2LOfwR9OVKZuXAn1ObLOq2qAZjycRaVlGoiw2xyHwN8Ozec12NW%26sig%3DCg0ArKJSzMBmMGXdmFOIEAE%26fbs_aeid%3D%5Bgw_fbsaeid%5D%26urlfix%3D1%26rm_eid%3D5446923%26adurl%3Dhttps%253A%252F%252Fwww.ajprodukter.dk%253Futm_source%253Ddisplay%2526utm_medium%253Dbanner%2526utm_campaign%253Dprosp_Personal-service-retake%2526dclid%253D%2525edclid!, line 1: InternalError: too much recursion
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5320 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5320 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6511 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6511 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6809 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6809 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 334 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 334 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4809 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4809 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://c.bannerflow.net/a/609294bbf57948fc36967151?did=5ced17d285b1c200019c3fe1&deeplink=on&&redirecturl=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjsugrFKWCiYQchJ_9mkc1L59S_cUzRg6v6N44A5AJaW_p1R7hLL9H1ifxR-vRfMErPL4uqdCgwI9fGY3l2VU8W9OVcDztdLhiTxjvLMH9Yy9ZsAfhPZTzJDTpOpcLm1B6Xxels5g_pyyYUgsOTEy0v7bGW68tHzE1VXYSSm8DHFSv1oJdl5cAcVLs-snFEnHmElG3fNHvTlUAt-fUVPYPaUFd5ZUo9u1A8f9JAUTpYL2uFVhiZHhltxyd515u6QcDtC3WoykwAHKPIitlHWIxDA2re6856FReqkywljA-lZbLfEcJkT3a1odbhBkDg3IDd94Z6u2Aak7QIZMpnF8_AHlqhmZxnr1BQLHPNZsdTN1i8Y2xDk1P3izV9o4zL9Jq3hWSsIl-71WxXsReaKuxkk1iUYm-QrX7x60K5EWWkWFppFXEVrdlDF9TsKRjVoTJN2pLStJWvjcEchE0VQDsBytoZgZERkksASXTSKYo95Ki12fZu99rULG3-1Y94V-e_9Ml8e6ox3LPYvCe1hdTvh-vvG7wmAFCNkpC6v00j8MCl108w6ZDdLnQ_ESs3nK9UkZKV8VL2e6V-Vz5K8l54PhJlMoDLk7TqPoqEH9oU0LgwSEvlYXH2c8iUzzEUFa0MfPmOj9Jrlel1t4PlJejk-665d3ri2c0xYNgh1P24fZsVuH8rwLmQUaGH0rvIyODefjNmCZQpuac60ap0Aj6yvAgkebiAOL7NoKHZVM21o1SQTF0tv15lvy2bN6zuRdmWk_UVBvvSExkoiHdfZJMvsFc0ttbQ9R7qtn_myu-WX45ObDfPie2TKvbW_OqACVvxkslcuZUb7oHTdRh7lXYqQmFnNVbTdHNay9qmmOLICZaXLGWRR95Gfh6toyuIeFsry13QQTKKXASV68e_KVvyM_EjE1f5-J4GAilWxl3l9srJVJU-bDtrJHosn8WmMyw-nPgzoRVVME2-0NnDieAdHfigiQ1_B18vvk162EyRGmuaw2YlKDuPsxIjSKc_6TOhQ3V0VcnKFoCwKQk8_j9zZ2RobV9Y6tEpsZ7j0zjTxPiN95Pv9-F04PkyCbrMpMIMbKBk9CcasRZwc%26sai%3DAMfl-YS_6TL7aAvkfuMes5TsOWgH3bxRFrdM-ZRaIu7WlJ8vQMBw7BeeVL2xxjTdtADttOwAjKcpVyJ4PYSpHuk2MIJ7fpANqRDIyyERBJLt_NGYDWiX2-nLAidTAUyMLQvfjnt_fE8v8stk_Oc31cK1HmD02irIQZPJ2N0FvpWkx9b-2iEj_u3zNiSn_JgDdz_QvWdFxJcSnQ3SWKN33IDa3ysN_L7XZXMpIwrjXF1Pb36dihBcGsOL%26sig%3DCg0ArKJSzAXxtKLGOGj9EAE%26fbs_aeid%3D%5Bgw_fbsaeid%5D%26urlfix%3D1%26rm_eid%3D5446923%26adurl%3Dhttps%253A%252F%252Fwww.ajprodukter.dk%253Futm_source%253Ddisplay%2526utm_medium%253Dbanner%2526utm_campaign%253Dprosp_Personal-service-retake%2526dclid%253D%2525edclid!, line 1: InternalError: too much recursion
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2473 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2473 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://c.bannerflow.net/a/609294bbf57948fc36967151?did=5ced17d285b1c200019c3fe1&deeplink=on&&redirecturl=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjsugrFKWCiYQchJ_9mkc1L59S_cUzRg6v6N44A5AJaW_p1R7hLL9H1ifxR-vRfMErPL4uqdCgwI9fGY3l2VU8W9OVcDztdLhiTxjvLMH9Yy9ZsAfhPZTzJDTpOpcLm1B6Xxels5g_pyyYUgsOTEy0v7bGW68tHzE1VXYSSm8DHFSv1oJdl5cAcVLs-snFEnHmElG3fNHvTlUAt-fUVPYPaUFd5ZUo9u1A8f9JAUTpYL2uFVhiZHhltxyd515u6QcDtC3WoykwAHKPIitlHWIxDA2re6856FReqkywljA-lZbLfEcJkT3a1odbhBkDg3IDd94Z6u2Aak7QIZMpnF8_AHlqhmZxnr1BQLHPNZsdTN1i8Y2xDk1P3izV9o4zL9Jq3hWSsIl-71WxXsReaKuxkk1iUYm-QrX7x60K5EWWkWFppFXEVrdlDF9TsKRjVoTJN2pLStJWvjcEchE0VQDsBytoZgZERkksASXTSKYo95Ki12fZu99rULG3-1Y94V-e_9Ml8e6ox3LPYvCe1hdTvh-vvG7wmAFCNkpC6v00j8MCl108w6ZDdLnQ_ESs3nK9UkZKV8VL2e6V-Vz5K8l54PhJlMoDLk7TqPoqEH9oU0LgwSEvlYXH2c8iUzzEUFa0MfPmOj9Jrlel1t4PlJejk-665d3ri2c0xYNgh1P24fZsVuH8rwLmQUaGH0rvIyODefjNmCZQpuac60ap0Aj6yvAgkebiAOL7NoKHZVM21o1SQTF0tv15lvy2bN6zuRdmWk_UVBvvSExkoiHdfZJMvsFc0ttbQ9R7qtn_myu-WX45ObDfPie2TKvbW_OqACVvxkslcuZUb7oHTdRh7lXYqQmFnNVbTdHNay9qmmOLICZaXLGWRR95Gfh6toyuIeFsry13QQTKKXASV68e_KVvyM_EjE1f5-J4GAilWxl3l9srJVJU-bDtrJHosn8WmMyw-nPgzoRVVME2-0NnDieAdHfigiQ1_B18vvk162EyRGmuaw2YlKDuPsxIjSKc_6TOhQ3V0VcnKFoCwKQk8_j9zZ2RobV9Y6tEpsZ7j0zjTxPiN95Pv9-F04PkyCbrMpMIMbKBk9CcasRZwc%26sai%3DAMfl-YS_6TL7aAvkfuMes5TsOWgH3bxRFrdM-ZRaIu7WlJ8vQMBw7BeeVL2xxjTdtADttOwAjKcpVyJ4PYSpHuk2MIJ7fpANqRDIyyERBJLt_NGYDWiX2-nLAidTAUyMLQvfjnt_fE8v8stk_Oc31cK1HmD02irIQZPJ2N0FvpWkx9b-2iEj_u3zNiSn_JgDdz_QvWdFxJcSnQ3SWKN33IDa3ysN_L7XZXMpIwrjXF1Pb36dihBcGsOL%26sig%3DCg0ArKJSzAXxtKLGOGj9EAE%26fbs_aeid%3D%5Bgw_fbsaeid%5D%26urlfix%3D1%26rm_eid%3D5446923%26adurl%3Dhttps%253A%252F%252Fwww.ajprodukter.dk%253Futm_source%253Ddisplay%2526utm_medium%253Dbanner%2526utm_campaign%253Dprosp_Personal-service-retake%2526dclid%253D%2525edclid!, line 1: InternalError: too much recursion
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6675 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6675 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4587 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4587 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 3338 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 3338 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2981 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2981 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://c.bannerflow.net/a/60929961f57948fc36967165?did=5ced17d285b1c200019c3fe1&deeplink=on&&redirecturl=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjstELaNDJcLoIaJoL9A7R3146BBRWf45e48TfLxQQXSLFMSCgpWftZQiMKVEtqyDey19puTMN-WqmLv5lp-rtTlM0b11PsvhW4e7mMSQMzHvyy0kQdCL33RqwSlMR9CU0pWt0J2PnMOt_V31QJPK3vppUqAd0kD-T2BDOflYDivWJWUVmEEc7CTdopuZSV3LR-LLDxB_J9nQsBKd-n2sx8O9C1ygwt7qZvoWvZQWd6inHv3NAtRX4-0kbkvbbkKOfmok_MtkcJb9pSPrRsV4yjiaFCLMNqkRW_EWNy4AWjn6SPyxBmXa8rA20WEAervinEBeZRtJcFtEr1SGF5ItX4-UAGIejXAP2yMmYbPGf0QR9g-WX5w2Ifkx0iMotQ6BFxUrzn5e9gbuX5zM7D1UDBChydmXMmCE1QtAAXwAQKGm6Fa0Ymu0WvM7dWUKwLIJbW-3dOSfZ5RdvzNqRalQj0JpSEjRXt10bh6-J1HhbKm0aKW7VmRo4LuxsQvLn9XgEtmimBYGEh5IvSUuF8_V0B-L0DS2OnvcGMqZNDnoeks_z-c9D-io1c7fnztRcr-Ke_zrICSO6q3_iIP7FlpUYtz9pISa62w7O-x9Q4G45QbWhOL_rXrgLYjM_dLk5FFyU45CSVMubU5ephvLd8nioLn4JwI39VHsL6d6nZy7KhYSozAqo2Ul8LNCJk3MKAJPnf90M_Y4_KiAfUIHYVA3_yYJRdYW4r2zQRmT3Jjh3qbGua84V0AM6ikjilAtDBX0o_j-6ud_Y8tWGA5bTdpeO1eI_nNEY9xR6VsigTKXIEdwRXSUKowMUdbUHj8QX6iu7IRTEfU3IgrkXs0o8kK8i8B1wBpiDxwy9OPykTrgqMksLq6DbAAc9udSgP4Vte3NO93VMdeRl3Q0SIHEFK2Q7RTUNKJBbUeaZuZVQdUcsnUtQX-7jDpF0VBO4ovT8OlFn5oOo7LBUpZMYcMy_jnneXJK-wqs79NILZ3YI4a0ZlbUrLRF6-qU8y68W2TP4PKNLlooiLt2fUcY_RMp4EcgEXWQlz7e6W8JkaBWi7P4tC8ewe1b5my3pQmkD33PV76cqP4q7N_3cRdTa7nyi9fmkQ%26sai%3DAMfl-YTzOn2MP2u9CtprNzzQRFKnaK8FKge_Rlu1SbnTiNdCIkXg3fIA1P8jlYnm0BUjFI71G8XLGk45jv58_nB7bgveNSfdmhXZKLy2oISuhPUBE8T8dWPf5wfcWxxYnq0-uOIuBKMOr8jh5WkSG0JRJdzyIQJNhW8fpqzw9RmnCMYbGXGpvj5IkfjW5sCMNrubKhfNOyTjxWoiHSmHnA_U0wcYEF1nqdA8_b-5-0EpDCw0M2UDplIa%26sig%3DCg0ArKJSzALr5eizCTmsEAE%26fbs_aeid%3D%5Bgw_fbsaeid%5D%26urlfix%3D1%26rm_eid%3D5446923%26adurl%3Dhttps%253A%252F%252Fwww.ajprodukter.dk%253Futm_source%253Ddisplay%2526utm_medium%253Dbanner%2526utm_campaign%253Dprosp_Personal-service-retake_Industry%2526dclid%253D%2525edclid!, line 1: InternalError: too much recursion
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 7491 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 7491 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://c.bannerflow.net/a/60929961f57948fc36967165?did=5ced17d285b1c200019c3fe1&deeplink=on&&redirecturl=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjstELaNDJcLoIaJoL9A7R3146BBRWf45e48TfLxQQXSLFMSCgpWftZQiMKVEtqyDey19puTMN-WqmLv5lp-rtTlM0b11PsvhW4e7mMSQMzHvyy0kQdCL33RqwSlMR9CU0pWt0J2PnMOt_V31QJPK3vppUqAd0kD-T2BDOflYDivWJWUVmEEc7CTdopuZSV3LR-LLDxB_J9nQsBKd-n2sx8O9C1ygwt7qZvoWvZQWd6inHv3NAtRX4-0kbkvbbkKOfmok_MtkcJb9pSPrRsV4yjiaFCLMNqkRW_EWNy4AWjn6SPyxBmXa8rA20WEAervinEBeZRtJcFtEr1SGF5ItX4-UAGIejXAP2yMmYbPGf0QR9g-WX5w2Ifkx0iMotQ6BFxUrzn5e9gbuX5zM7D1UDBChydmXMmCE1QtAAXwAQKGm6Fa0Ymu0WvM7dWUKwLIJbW-3dOSfZ5RdvzNqRalQj0JpSEjRXt10bh6-J1HhbKm0aKW7VmRo4LuxsQvLn9XgEtmimBYGEh5IvSUuF8_V0B-L0DS2OnvcGMqZNDnoeks_z-c9D-io1c7fnztRcr-Ke_zrICSO6q3_iIP7FlpUYtz9pISa62w7O-x9Q4G45QbWhOL_rXrgLYjM_dLk5FFyU45CSVMubU5ephvLd8nioLn4JwI39VHsL6d6nZy7KhYSozAqo2Ul8LNCJk3MKAJPnf90M_Y4_KiAfUIHYVA3_yYJRdYW4r2zQRmT3Jjh3qbGua84V0AM6ikjilAtDBX0o_j-6ud_Y8tWGA5bTdpeO1eI_nNEY9xR6VsigTKXIEdwRXSUKowMUdbUHj8QX6iu7IRTEfU3IgrkXs0o8kK8i8B1wBpiDxwy9OPykTrgqMksLq6DbAAc9udSgP4Vte3NO93VMdeRl3Q0SIHEFK2Q7RTUNKJBbUeaZuZVQdUcsnUtQX-7jDpF0VBO4ovT8OlFn5oOo7LBUpZMYcMy_jnneXJK-wqs79NILZ3YI4a0ZlbUrLRF6-qU8y68W2TP4PKNLlooiLt2fUcY_RMp4EcgEXWQlz7e6W8JkaBWi7P4tC8ewe1b5my3pQmkD33PV76cqP4q7N_3cRdTa7nyi9fmkQ%26sai%3DAMfl-YTzOn2MP2u9CtprNzzQRFKnaK8FKge_Rlu1SbnTiNdCIkXg3fIA1P8jlYnm0BUjFI71G8XLGk45jv58_nB7bgveNSfdmhXZKLy2oISuhPUBE8T8dWPf5wfcWxxYnq0-uOIuBKMOr8jh5WkSG0JRJdzyIQJNhW8fpqzw9RmnCMYbGXGpvj5IkfjW5sCMNrubKhfNOyTjxWoiHSmHnA_U0wcYEF1nqdA8_b-5-0EpDCw0M2UDplIa%26sig%3DCg0ArKJSzALr5eizCTmsEAE%26fbs_aeid%3D%5Bgw_fbsaeid%5D%26urlfix%3D1%26rm_eid%3D5446923%26adurl%3Dhttps%253A%252F%252Fwww.ajprodukter.dk%253Futm_source%253Ddisplay%2526utm_medium%253Dbanner%2526utm_campaign%253Dprosp_Personal-service-retake_Industry%2526dclid%253D%2525edclid!, line 1: InternalError: too much recursion
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5722 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5722 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4641 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4641 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://c.bannerflow.net/a/60929961f57948fc36967165?did=5ced17d285b1c200019c3fe1&deeplink=on&&redirecturl=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjsuxrIN3dRdbOzI3Rj_-LPpIPv_rHSOGhRMabTT0Ij01td4Q6GGEFDQwRjJ-V4lQcl0jFZHy_7hEEISGrkCR9ZZjEgosVRYygBGIYxSMhfDozXYYbhGjecCD6RK_1we9CuGVzYMs1EEt6CANfKNJxxKLa4GDcnwtkICQwD42X1xyW3Asf_IX8b3Dty4FbnXBh44xDNj67MpqtSh9yAU-LHBRw5bpq3T-YXeSfTundjNFsfVxRNfRFJp9e2m0BAmqCM1uWXIjj0W29r9mxkdsDDTjqxMwbMWiVR47BgP9ooPj7FNmy6TIrpLv3GQGvjqyYEKK6Rb5rAciKI-mm4T-DHFtOV_dDYJw0B6pramwIuV8enJZC8A_LGZwG0FTmJfwT8j_BHZ8uA5Dqr7eH00FaP1LFnY8GLLMpA7MAW2pVCmXtycuBxCHlk0tp3LcsqPuGoICUBBMoXZfA1fFwoxn4XEsHUR43p6I4euD3x2G62GyUaBzqGj5V9fJtfOX3tpHehDjahiGkS_9lhbdzN3KJbQyxsNBqBNnu9qK6xZpemTmkIUC7pR56kRKKFc8DYUzA1PUUvypu5M9jahi2AbiWci3nM0eKtVzYfMjkNjYb2Spbav4-TFZLqJfsAZqYMcBIzoSb1vSEWcDBiNq79H1IHs6d5WENLvoQR4r3N7gDf3y4wAz4vydWD2BuDNj5sK77HevjV-3FpA1zAV1wdUPgPnpXfQyxA7XTrzN4jE5R_Q-b8Eb1byaW1Oh9FKFiA2q32aWXZqZOBh9chk4T08x_eXpqehFprbPn610dr7H2k628hHrzCHSNnYgb5ofG3HwkeJJRu5WhmIKW-N9AUTf_zGEA0sDFYmC2ex0JD3TbpC5hvRLKY9YdNS9x4wQqSpZ5l8PBB_kHsKH6sOu7iT-26Ku7U7zNJx8XSTJjaoH8asrhEC6vIBoQBFv4n3cftb_VH0rNpb9o-eSmW39_vgSsCThaDXx4fzwtu_tYFughFI3h7Bbr4fOsesBVsITf9E8B7yS1X35i4yfu9RACPNKMmmSLSKkgQudZ-2yTAfLQZMZHfvlbz71Zjlych1Gg7V8SE22EHWSsRG4iPtT57Vdow%26sai%3DAMfl-YR1FwqqMZIymWyULGtQ4nddYkeVNVbAJvQNbiGAfeGfQ80rK5VPB-5qf4d5yMlvS6Rp08aCv651LRfr3YS3yVraZYf0jFFi2bTq1ncTRA0VZyWLJuwCv2-W6zcW65uQxv-I1ophVGPSG9Sbf7y1qTNdXdmYl-JDylWYoFidxHbrniLgdlNM0XPhK-LXPC1oYxNC889Aq2S2IUdBwSTQs2aIq3trBKuyLNTf0-olefqKRzpBWIul%26sig%3DCg0ArKJSzH3wgjsz7D_NEAE%26fbs_aeid%3D%5Bgw_fbsaeid%5D%26urlfix%3D1%26rm_eid%3D5446923%26adurl%3Dhttps%253A%252F%252Fwww.ajprodukter.dk%253Futm_source%253Ddisplay%2526utm_medium%253Dbanner%2526utm_campaign%253Dprosp_Personal-service-retake_Industry%2526dclid%253D%2525edclid!, line 1: InternalError: too much recursion
+JavaScript error: https://c.bannerflow.net/a/60929961f57948fc36967165?did=5ced17d285b1c200019c3fe1&deeplink=on&&redirecturl=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjsuxrIN3dRdbOzI3Rj_-LPpIPv_rHSOGhRMabTT0Ij01td4Q6GGEFDQwRjJ-V4lQcl0jFZHy_7hEEISGrkCR9ZZjEgosVRYygBGIYxSMhfDozXYYbhGjecCD6RK_1we9CuGVzYMs1EEt6CANfKNJxxKLa4GDcnwtkICQwD42X1xyW3Asf_IX8b3Dty4FbnXBh44xDNj67MpqtSh9yAU-LHBRw5bpq3T-YXeSfTundjNFsfVxRNfRFJp9e2m0BAmqCM1uWXIjj0W29r9mxkdsDDTjqxMwbMWiVR47BgP9ooPj7FNmy6TIrpLv3GQGvjqyYEKK6Rb5rAciKI-mm4T-DHFtOV_dDYJw0B6pramwIuV8enJZC8A_LGZwG0FTmJfwT8j_BHZ8uA5Dqr7eH00FaP1LFnY8GLLMpA7MAW2pVCmXtycuBxCHlk0tp3LcsqPuGoICUBBMoXZfA1fFwoxn4XEsHUR43p6I4euD3x2G62GyUaBzqGj5V9fJtfOX3tpHehDjahiGkS_9lhbdzN3KJbQyxsNBqBNnu9qK6xZpemTmkIUC7pR56kRKKFc8DYUzA1PUUvypu5M9jahi2AbiWci3nM0eKtVzYfMjkNjYb2Spbav4-TFZLqJfsAZqYMcBIzoSb1vSEWcDBiNq79H1IHs6d5WENLvoQR4r3N7gDf3y4wAz4vydWD2BuDNj5sK77HevjV-3FpA1zAV1wdUPgPnpXfQyxA7XTrzN4jE5R_Q-b8Eb1byaW1Oh9FKFiA2q32aWXZqZOBh9chk4T08x_eXpqehFprbPn610dr7H2k628hHrzCHSNnYgb5ofG3HwkeJJRu5WhmIKW-N9AUTf_zGEA0sDFYmC2ex0JD3TbpC5hvRLKY9YdNS9x4wQqSpZ5l8PBB_kHsKH6sOu7iT-26Ku7U7zNJx8XSTJjaoH8asrhEC6vIBoQBFv4n3cftb_VH0rNpb9o-eSmW39_vgSsCThaDXx4fzwtu_tYFughFI3h7Bbr4fOsesBVsITf9E8B7yS1X35i4yfu9RACPNKMmmSLSKkgQudZ-2yTAfLQZMZHfvlbz71Zjlych1Gg7V8SE22EHWSsRG4iPtT57Vdow%26sai%3DAMfl-YR1FwqqMZIymWyULGtQ4nddYkeVNVbAJvQNbiGAfeGfQ80rK5VPB-5qf4d5yMlvS6Rp08aCv651LRfr3YS3yVraZYf0jFFi2bTq1ncTRA0VZyWLJuwCv2-W6zcW65uQxv-I1ophVGPSG9Sbf7y1qTNdXdmYl-JDylWYoFidxHbrniLgdlNM0XPhK-LXPC1oYxNC889Aq2S2IUdBwSTQs2aIq3trBKuyLNTf0-olefqKRzpBWIul%26sig%3DCg0ArKJSzH3wgjsz7D_NEAE%26fbs_aeid%3D%5Bgw_fbsaeid%5D%26urlfix%3D1%26rm_eid%3D5446923%26adurl%3Dhttps%253A%252F%252Fwww.ajprodukter.dk%253Futm_source%253Ddisplay%2526utm_medium%253Dbanner%2526utm_campaign%253Dprosp_Personal-service-retake_Industry%2526dclid%253D%2525edclid!, line 1: InternalError: too much recursion
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4291 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4291 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6949 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6949 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5943 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 5943 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6352 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6352 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4076 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 4076 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2964 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 2964 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 7779 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 7779 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
