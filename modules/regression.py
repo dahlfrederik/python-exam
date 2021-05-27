@@ -21,6 +21,9 @@ class find_car_value:
         self.y_test = []
         self.y_pred = []
 
+    def get_x_y(self):
+        return self.X, self.y
+
     def show_dataframe(self):
         return self.dataframe.head()
 
@@ -32,7 +35,7 @@ class find_car_value:
         names = features.columns
         d = scaler.fit_transform(features)
         scaled_df = pd.DataFrame(d, columns=names)
-        scaled_df.head()
+        return scaled_df
 
     def describe_data(self):
         return self.dataframe.describe()
