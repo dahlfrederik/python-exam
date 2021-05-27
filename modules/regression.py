@@ -64,9 +64,4 @@ class find_car_value:
         print("Predicted price of the entered car: ", predicted_car_value)
 
     def predict_data_accuracy(self):
-        print('Mean Absolute Error:', metrics.mean_absolute_error(
-            self.y_test, self.y_pred))
-        print('Mean Squared Error:', metrics.mean_squared_error(
-            self.y_test, self.y_pred))
-        print('Root Mean Squared Error:', np.sqrt(
-            metrics.mean_squared_error(self.y_test, self.y_pred)))
+        print("Model accuracy: ", self.regressor.score(self.X, self.y))
