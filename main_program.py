@@ -11,8 +11,8 @@ import pandas as pd
 d = {'name': ["Tesla Model S 85 5d", "Tesla Model S 75D 5d"],
      'km': [141000, 36000], "price": [299700, 589900], "year": [2014, 2019]}
 df = pd.DataFrame(data=d)
-search_car_km = 93000
-search_car_year = 2010
+search_car_km = 920000
+search_car_year = 2015
 ##
 find_car = regression.find_car_value(
     df, search_car_km, search_car_year)
