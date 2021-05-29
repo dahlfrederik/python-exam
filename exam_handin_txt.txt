@@ -1,0 +1,13 @@
+Python exam handin 
+
+Group name: 
+	Holdet 
+Group members: 
+	Josef Marc Pedersen 	| 	cph-jp325@cphbusiness.dk
+	Thor Christensen 	| 	cph-tc147@cphbusiness.dk
+	Frederik Bo Dahl 	| 	cph-fd76@cphbusiness.dk
+
+GitHub link: 
+	https://github.com/dahlfrederik/python-exam
+
+Read the readme file for instructions on how to use the program
