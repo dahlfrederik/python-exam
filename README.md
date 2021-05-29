@@ -34,7 +34,7 @@ This project lets you scan a numberplate of a car and based on this numberplate 
 We assume that the user is running this project from the docker enviroments used in this semester. 
 
 Never the less you have to install these librarys:  
-- pip install pytesseract
+- pip install pytesseract and install tesseract on your machine/the docker enviroment 
 - pip install imutils
 
 
